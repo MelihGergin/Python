@@ -16,5 +16,6 @@ elif a == 17:
     print("\n205 40 R 17 84 H\n")
 elif a == 18:
     print("\n205 40 R 18 86 V\n")
+
 else:
     print("\nAradığınız lastik elimizde bulunmamaktadır...")
